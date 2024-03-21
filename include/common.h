@@ -25,7 +25,7 @@ struct _message{
     int sender_id;
     int receiver_id;
 
-
+    test;
 
 };
 
